@@ -1,0 +1,13 @@
+{
+  "name": "@css-render/docs",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build:vercel": "vitepress build docs",
+    "build": "",
+    "dev": "vitepress dev docs"
+  },
+  "devDependencies": {
+    "vitepress": "^0.12.2"
+  }
+}

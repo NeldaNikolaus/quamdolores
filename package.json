@@ -1,0 +1,13 @@
+{
+  "author": "ZaneDeckow",
+  "license": "MIT",
+  "name": "quamdolores",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NeldaNikolaus/quamdolores.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NeldaNikolaus/quamdolores.git/issues"
+  },
+  "version": "1.0.0"
+}
